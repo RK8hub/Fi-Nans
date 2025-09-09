@@ -1,0 +1,11 @@
+Copyright © 2025 RK8. Todos los derechos reservados.
+
+Este software y sus archivos asociados están protegidos por la legislación vigente en materia de propiedad intelectual. Se autoriza exclusivamente la lectura y visualización del código fuente para fines personales o de revisión interna.
+
+Queda expresamente prohibido, sin el consentimiento previo y por escrito del titular de los derechos:
+- Copiar, reproducir, modificar, adaptar, traducir, distribuir, transmitir, sublicenciar, vender, publicar o explotar de cualquier forma el contenido total o parcial de este software.
+- Utilizar el software para fines comerciales, públicos o cualquier propósito distinto al autorizado.
+
+El incumplimiento de estas condiciones podrá dar lugar a responsabilidades civiles y penales conforme a la normativa aplicable.
+
+Para solicitar permisos adicionales, contacte al titular por medio del correo electronico: rk8dev@gmail.com
