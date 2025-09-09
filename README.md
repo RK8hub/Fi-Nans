@@ -1,6 +1,3 @@
-# Fi-Nans
-Tu economía, Nuestra solución 
-
 # Gestor de Finanzas Inteligente
 
 Este proyecto es un **gestor de finanzas personales** desarrollado en **Python** utilizando la librería **Flet** para la interfaz gráfica.  
@@ -32,8 +29,16 @@ La aplicación está pensada para crecer con el tiempo y convertirse en una herr
 
 1. Clonar este repositorio:  
    ```bash
-
----
-## Crear un entorno virtual e instalar las dependencias
    git clone https://github.com/tuusuario/gestor-finanzas-inteligente.git
    cd gestor-finanzas-inteligente
+
+---
+## Crear un entorno virtual e instalar las dependencias:
+   ```bash
+      python -m venv venv
+      source venv/bin/activate   # En Linux/Mac
+      venv\Scripts\activate      # En Windows
+      
+      pip install -r requirements.txt
+
+
