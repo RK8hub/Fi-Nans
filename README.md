@@ -29,9 +29,8 @@ La aplicación está pensada para crecer con el tiempo y convertirse en una herr
 
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/gestor-finanzas-inteligente.git
-   cd gestor-finanzas-inteligente
-
+   git clone https://github.com/RK8hub/Fi-Nans.git
+   cd Fi-Nans
 ---
 ## Crear un entorno virtual e instalar las dependencias:
    ```bash
